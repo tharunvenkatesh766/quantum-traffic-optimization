@@ -1,6 +1,6 @@
-venv/
 __pycache__/
 *.pyc
 *.class
-.vscode/
+venv/
 .env
+.vscode/
